@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on **open-source tech projects, AI models, and IoT-based innovations**
 - 📫 How to reach me:  
   - 📧 shinganesumit80@gmail.com  
-  - 💼 [LinkedIn](https://www.linkedin.com/in/sumit3162)  
+  - 💼 [LinkedIn](https://www.linkedin.com/in/sumit-shingne-9a9364303/)  
   - 🐙 [GitHub Projects](https://github.com/sumit3162)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love creating memes and cinematic videos in my free time! 🎬😄
