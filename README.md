@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/sumit-shingne-9a9364303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/sumit-shingne-9a9364303/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sumit-shingne-9a9364303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/sumit-shingne-9a9364303/" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@shinganesumit80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@shinganesumit80" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sumit3152006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sumit3152006/" height="30" width="40" /></a>
 </p>
