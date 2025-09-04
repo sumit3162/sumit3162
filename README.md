@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit3162&show_icons=true&locale=en" alt="sumit3162" /></p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4867083" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ExploitPatil.png" alt="Your Image Badge" />
