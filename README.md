@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@shinganesumit80](https://medium.com/@shinganesumit80)
 
-- 📫 How to reach me **shinganesumit80@gmailcom**
+- 📫 How to reach me **shinganesumit80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
